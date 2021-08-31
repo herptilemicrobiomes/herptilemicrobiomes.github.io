@@ -7,7 +7,7 @@
 
 - name: 1kfg
   group: featured
-  image: images/photo.jpg
+  image: images/mushroom_1.jpg
   link: https://1000.fungalgenomes.org/
   description: 1000 Fungal Genomes Project
   repo: 1kfg
