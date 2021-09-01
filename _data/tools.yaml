@@ -1,13 +1,13 @@
 - name: Zygolife
   group: featured
   image: images/Zychaea_mexicana_2.jpg
-  link: https://zygolife.org/
+  link: http://zygolife.org/
   description: Zygolife Project
   repo: zygolife
 
 - name: 1kfg
   group: featured
   image: images/mushroom_1.jpg
-  link: https://1000.fungalgenomes.org/
+  link: http://1000.fungalgenomes.org/
   description: 1000 Fungal Genomes Project
   repo: 1kfg
