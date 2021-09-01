@@ -1,6 +1,6 @@
 ---
 name: Joey Spatafora
-image: images/joey-spatafora.jpg
+image: images/Joey-headshot.jpg
 description: Professor
 role: pi
 aliases:
