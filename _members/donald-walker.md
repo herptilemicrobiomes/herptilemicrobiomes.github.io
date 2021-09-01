@@ -1,6 +1,6 @@
 ---
 name: Donald Walker
-image: images/donnie-walker.jpg
+image: images/Walker-headshot.jpg
 description: Assistant Professor
 role: pi
 aliases:
