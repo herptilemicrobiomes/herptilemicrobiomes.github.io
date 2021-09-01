@@ -6,7 +6,7 @@ role: pi
 aliases:
   - DM. Walker
 links:
-  home-page: https://mtsu.edu/faculty/donald-m-walker
+  home-page: https://walkerlabmtsu.weebly.com/
   email: Donald.Walker@mtsu.edu
   github: 
 ---
