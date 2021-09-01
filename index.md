@@ -22,7 +22,7 @@ title: Home
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/frog.jpg"
   link="research"
   headline="Our Research"
   text=text
@@ -38,7 +38,7 @@ We are studying the Bacteria and Fungi which comprise Amphibian and Reptile dige
 
 {%
   include feature.html
-  image="images/snake_1.jpg"
+  image="images/co-culture_plate.jpg"
   link="resources"
   headline="Our Resources"
   text=text
@@ -54,7 +54,7 @@ Datasets and Resources we have collected, strains and cultured organisms, Genome
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/snake_1.jpg"
   link="team"
   headline="Our Team"
   text=text

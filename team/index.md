@@ -9,6 +9,8 @@ nav:
 
 The Herptile Microbiome Research Team - We are an interdisciplinary research team led by Donny Walker (Middle Tennessee State University), Jason Stajich (University of California, Riverside), and Joey Spatafora and Kerry McPhail (Oregon State University)
 
+{% include banner.html image="images/logo_v5.png" %}
+
 {% include section.html %}
 
 {%
