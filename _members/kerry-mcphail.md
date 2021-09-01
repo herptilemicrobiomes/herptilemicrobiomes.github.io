@@ -1,6 +1,6 @@
 ---
 name: Kerry McPhail
-image: images/kerry-mcphailjpg
+image: images/Kerry_Headshot2019b.jpg
 description: Professor
 role: pi
 aliases:
