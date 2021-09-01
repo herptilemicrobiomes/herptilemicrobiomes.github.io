@@ -38,7 +38,7 @@ We are studying the Bacteria and Fungi which comprise Amphibian and Reptile dige
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/snake_1.jpg"
   link="resources"
   headline="Our Resources"
   text=text
