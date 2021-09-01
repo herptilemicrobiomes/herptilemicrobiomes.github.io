@@ -4,7 +4,7 @@ image: images/donnie-walker.jpg
 description: Assistant Professor
 role: pi
 aliases:
-  - D. Walker
+  - DM. Walker
 links:
   home-page: https://mtsu.edu/faculty/donald-m-walker
   email: Donald.Walker@mtsu.edu
