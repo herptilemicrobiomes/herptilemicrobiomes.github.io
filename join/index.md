@@ -8,11 +8,6 @@
 
 {% include section.html %}
 
-<br>
-Please see the specific advertisements for PhD and postdoctoral research positions at MTSU, OSU, and UC Riverside below. 
-<br>
-<br>
-
 ## **PhD Research Assistantships**
 
 University: Middle Tennessee State University
