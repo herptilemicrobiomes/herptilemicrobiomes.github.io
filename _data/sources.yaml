@@ -21,8 +21,8 @@
     - slimy salamander
     
  - id: 10.1038/s41396-019-0416-x
-  image: "images/Fig4_revised.jpg"
-  tags:
+   image: "images/Fig4_revised.jpg"
+   tags:
     - Ophidiomyces ophidiicola
     - snake microbiome
     - microbial ecology
