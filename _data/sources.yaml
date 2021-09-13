@@ -45,5 +45,11 @@
     - dermatophytic fungi
     - Ophidiomyces ophiodiicola
     - wildlife disease
-    
+ 
+- id: 10.1038/s41598-021-82607-4
+  image: "olpidium.jpg"
+  tags:
+    - Olpidium
+    - zoosporic fungi
+
 
