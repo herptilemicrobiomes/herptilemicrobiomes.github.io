@@ -22,6 +22,7 @@
   - phylogeny
   - systematics
   - fungi
+  image: images/phylogeny.jpg
 - id: 10.1534/g3.120.401516
   title: Phylogenomic Analyses of Non-Dikarya Fungi Supports Horizontal Gene Transfer
     Driving Diversification of Secondary Metabolism in the Amphibian Gastrointestinal
@@ -44,3 +45,29 @@
   - basidiobolus
   - fungi
   - secondary metabolites
+  image: images/NRPS_phylogeny.jpg
+- id: 10.1007/s00248-019-01456-x
+  title: Variation in the Slimy Salamander (Plethodon spp.) Skin and Gut-Microbial
+    Assemblages Is Explained by Geographic Distance and Host Affinity
+  authors:
+  - Donald M. Walker
+  - Aubree J. Hill
+  - Molly A. Albecker
+  - Michael W. McCoy
+  - Matthew Grisnik
+  - Alexander Romer
+  - Alejandro Grajal-Puche
+  - Carlos Camp
+  - Crystal Kelehear
+  - Jessica Wooten
+  - Justin Rheubert
+  - Sean P. Graham
+  publisher: Microbial Ecology
+  date: '2019-12-04'
+  link: https://doi.org/gmshg7
+  image: images/heatmap.jpg
+  tags:
+  - basidiobolus
+  - fungi
+  - microbiome
+  - slimy salamander
