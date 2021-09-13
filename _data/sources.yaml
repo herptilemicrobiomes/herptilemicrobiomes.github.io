@@ -1,17 +1,4 @@
-- id: doi:10.1016/j.cub.2021.01.074
-  image: "images/phylogeny.jpg"
-  tags:
-    - phylogeny
-    - systematics
-    - fungi
-
-- id: 10.1534/g3.120.401516
-  image: "images/NRPS_phylogeny.jpg"
-  tags:
-    - basidiobolus
-    - fungi
-    - secondary metabolites
-   
+ 
 - id: 10.1007/s00248-019-01456-x
   image: "images/heatmap.jpg"
   tags:
