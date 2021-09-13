@@ -25,6 +25,25 @@
   - fungi
   - microbiome
   - slimy salamander
+- id: doi:10.1038/s41396-019-0416-x
+  title: Variability in snake skin microbial assemblages across spatial scales and
+    disease states
+  authors:
+  - Donald M. Walker
+  - Jacob E. Leys
+  - Matthew Grisnik
+  - Alejandro Grajal-Puche
+  - Christopher M. Murray
+  - Matthew C. Allender
+  publisher: The ISME Journal
+  date: '2019-05-07'
+  link: https://doi.org/gmsjsw
+  image: images/Fig4_revised.jpg
+  tags:
+  - Ophidiomyces ophidiicola
+  - snake microbiome
+  - microbial ecology
+  - disease ecology
 - id: doi:10.1016/j.cub.2021.01.074
   title: A genome-scale phylogeny of the kingdom Fungi
   authors:
