@@ -134,3 +134,24 @@
   - dermatophytic fungi
   - Ophidiomyces ophiodiicola
   - wildlife disease
+- id: 10.1038/s41598-021-82607-4
+  title: Genome-scale phylogenetic analyses confirm Olpidium as the closest living
+    zoosporic fungus to the non-flagellated, terrestrial fungi
+  authors:
+  - Ying Chang
+  - "D\u2019Ann Rochon"
+  - Satoshi Sekimoto
+  - Yan Wang
+  - Mansi Chovatia
+  - Laura Sandor
+  - Asaf Salamov
+  - Igor V. Grigoriev
+  - Jason E. Stajich
+  - Joseph W. Spatafora
+  publisher: Scientific Reports
+  date: '2021-02-05'
+  link: https://doi.org/gmskf8
+  image: olpidium.jpg
+  tags:
+  - Olpidium
+  - zoosporic fungi
