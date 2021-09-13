@@ -1,4 +1,13 @@
 # **Join the Team**
+
+{:.center}
+
+{% include section.html full=true %}
+
+{% include banner.html image="images/Zychaea_mexicana_2.jpg" %}
+
+{% include section.html %}
+
 <br>
 Please see the specific advertisements for PhD and postdoctoral research positions at MTSU, OSU, and UC Riverside below. 
 <br>
@@ -94,11 +103,4 @@ Contact person: Donny Walker
 
 Contact email: Donald.Walker@mtsu.edu
 
-nav:
-  order: 1
-  tooltip: Praise and laurels
 
-header: images/Zychaea_mexicana_2.jpg
-footer: images/baby_copperheads.JPG
-header-dark: false
-footer-dark: false
