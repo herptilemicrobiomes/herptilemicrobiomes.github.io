@@ -90,3 +90,22 @@
   - fungi
   - secondary metabolites
   image: images/NRPS_phylogeny.jpg
+- id: 10.1093/femsec/fiy168
+  title: A salamander's top down effect on fungal communities in a detritivore ecosystem
+  authors:
+  - Donald M Walker
+  - Christopher M Murray
+  - Doug Talbert
+  - Paul Tinker
+  - Sean P Graham
+  - Thomas W Crowther
+  publisher: FEMS Microbiology Ecology
+  date: '2018-09-20'
+  link: https://doi.org/gfbq4j
+  image: images/topdown.jpg
+  tags:
+  - top down effect
+  - fungi
+  - terrestrial mesopredator
+  - red-backed salamander
+  - saprophytic fungi
