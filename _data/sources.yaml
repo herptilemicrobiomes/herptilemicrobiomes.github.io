@@ -6,6 +6,14 @@
     - fungi
     - microbiome
     - slimy salamander
+
+- id: doi:10.1038/s41396-019-0416-x
+  image: "images/Fig4_revised.jpg"
+  tags:
+    - Ophidiomyces ophidiicola
+    - snake microbiome
+    - microbial ecology
+    - disease ecology
     
 - id: doi:10.1016/j.cub.2021.01.074
   image: "images/phylogeny.jpg"
