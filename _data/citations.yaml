@@ -151,7 +151,7 @@
   publisher: Scientific Reports
   date: '2021-02-05'
   link: https://doi.org/gmskf8
-  image: olpidium.jpg
+  image: images/olpidium.jpg
   tags:
   - Olpidium
   - zoosporic fungi
@@ -180,7 +180,7 @@
   publisher: Mycologia
   date: '2017-01-20'
   link: https://doi.org/dq6c
-  image: zoopagomycota.jpg
+  image: images/zoopagomycota.jpg
   tags:
   - systematics
   - Entomophthoromycotina
