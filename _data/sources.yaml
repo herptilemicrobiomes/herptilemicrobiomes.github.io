@@ -47,13 +47,13 @@
     - wildlife disease
  
 - id: 10.1038/s41598-021-82607-4
-  image: "olpidium.jpg"
+  image: "images/olpidium.jpg"
   tags:
     - Olpidium
     - zoosporic fungi
 
 - id: 10.3852/16-042
-  image: "zoopagomycota.jpg"
+  image: "images/zoopagomycota.jpg"
   tags:
     - systematics
     - Entomophthoromycotina
