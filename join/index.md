@@ -4,7 +4,7 @@
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/Zychaea_mexicana_2.jpg" %}
+{% include banner.html image="images/ .jpg" %}
 
 {% include section.html %}
 
