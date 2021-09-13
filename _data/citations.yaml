@@ -155,3 +155,34 @@
   tags:
   - Olpidium
   - zoosporic fungi
+- id: 10.3852/16-042
+  title: A phylum-level phylogenetic classification of zygomycete fungi based on genome-scale
+    data
+  authors:
+  - Joseph W. Spatafora
+  - Ying Chang
+  - Gerald L. Benny
+  - Katy Lazarus
+  - Matthew E. Smith
+  - Mary L. Berbee
+  - Gregory Bonito
+  - Nicolas Corradi
+  - Igor Grigoriev
+  - Andrii Gryganskyi
+  - Timothy Y. James
+  - "Kerry O\u2019Donnell"
+  - Robert W. Roberson
+  - Thomas N. Taylor
+  - Jessie Uehling
+  - Rytas Vilgalys
+  - Merlin M. White
+  - Jason E. Stajich
+  publisher: Mycologia
+  date: '2017-01-20'
+  link: https://doi.org/dq6c
+  image: zoopagomycota.jpg
+  tags:
+  - systematics
+  - Entomophthoromycotina
+  - Zoopagomycota Zoopagomycotina
+  - Zygomycota
