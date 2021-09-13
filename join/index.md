@@ -4,7 +4,7 @@
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/ .jpg" %}
+{% include banner.html image="images/Basidiobolus_microsporus_banner.jpg" %}
 
 {% include section.html %}
 
