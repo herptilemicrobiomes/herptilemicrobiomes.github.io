@@ -1,7 +1,10 @@
-title: Join the Team
+# **Join the Team**
+<br>
+Please see the specific advertisements for PhD and postdoctoral research positions at MTSU, OSU, and UC Riverside below. 
+<br>
+<br>
 
-description:
-**PhD Research Assistantships**
+## **PhD Research Assistantships**
 
 University: Middle Tennessee State University
 
@@ -38,7 +41,7 @@ Contact person: Donny Walker
 Contact email: Donald.Walker@mtsu.edu
 <br>
 <br>
-**Postdoctoral Research Fellowships**
+## **Postdoctoral Research Fellowships**
 
 University: Middle Tennessee State University
 
@@ -95,7 +98,7 @@ nav:
   order: 1
   tooltip: Praise and laurels
 
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
+header: images/Zychaea_mexicana_2.jpg
+footer: images/baby_copperheads.JPG
 header-dark: false
 footer-dark: false
