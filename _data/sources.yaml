@@ -59,3 +59,13 @@
     - Entomophthoromycotina
     - Zoopagomycota Zoopagomycotina
     - Zygomycota
+    
+- id: 10.1371/journal.pgen.1003496
+  image: "images/Tolypocladium.jpg"
+  tags:
+    - systematics
+    - Hypocreales 
+    - NRPS
+    - cyclosporin biosynthesis
+    - insect pathogen
+
