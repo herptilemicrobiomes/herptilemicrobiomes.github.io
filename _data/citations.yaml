@@ -213,3 +213,57 @@
   - NRPS
   - cyclosporin biosynthesis
   - insect pathogen
+- id: 10.1038/s41596-020-0317-5
+  title: Reproducible molecular networking of untargeted mass spectrometry data using
+    GNPS
+  authors:
+  - Allegra T. Aron
+  - Emily C. Gentry
+  - Kerry L. McPhail
+  - "Louis-F\xE9lix Nothias"
+  - "M\xE9lissa Nothias-Esposito"
+  - Amina Bouslimani
+  - Daniel Petras
+  - Julia M. Gauglitz
+  - Nicole Sikora
+  - Fernando Vargas
+  - Justin J. J. van der Hooft
+  - Madeleine Ernst
+  - Kyo Bin Kang
+  - Christine M. Aceves
+  - "Andr\xE9s Mauricio Caraballo-Rodr\xEDguez"
+  - Irina Koester
+  - Kelly C. Weldon
+  - Samuel Bertrand
+  - Catherine Roullier
+  - Kunyang Sun
+  - Richard M. Tehan
+  - Cristopher A. Boya P.
+  - Martin H. Christian
+  - "Marcelino Guti\xE9rrez"
+  - Aldo Moreno Ulloa
+  - Javier Andres Tejeda Mora
+  - Randy Mojica-Flores
+  - Johant Lakey-Beitia
+  - "Victor V\xE1squez-Chaves"
+  - Yilue Zhang
+  - "Angela I. Calder\xF3n"
+  - Nicole Tayler
+  - Robert A. Keyzers
+  - Fidele Tugizimana
+  - Nombuso Ndlovu
+  - Alexander A. Aksenov
+  - Alan K. Jarmusch
+  - Robin Schmid
+  - Andrew W. Truman
+  - Nuno Bandeira
+  - Mingxun Wang
+  - Pieter C. Dorrestein
+  publisher: Nature Protocols
+  date: '2020-05-13'
+  link: https://doi.org/ghm26m
+  image: images/molecular_network.jpg
+  tags:
+  - molecular networking
+  - natural products
+  - ecosystem-community interactions
