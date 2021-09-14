@@ -267,3 +267,58 @@
   - molecular networking
   - natural products
   - ecosystem-community interactions
+- id: 10.1038/s41592-020-0916-7
+  title: 'ReDU: a framework to find and reanalyze public mass spectrometry data'
+  authors:
+  - Alan K. Jarmusch
+  - Mingxun Wang
+  - Christine M. Aceves
+  - Rohit S. Advani
+  - Shaden Aguirre
+  - Alexander A. Aksenov
+  - Gajender Aleti
+  - Allegra T. Aron
+  - Anelize Bauermeister
+  - Sanjana Bolleddu
+  - Amina Bouslimani
+  - Andres Mauricio Caraballo Rodriguez
+  - Rama Chaar
+  - Roxana Coras
+  - Emmanuel O. Elijah
+  - Madeleine Ernst
+  - Julia M. Gauglitz
+  - Emily C. Gentry
+  - Makhai Husband
+  - Scott A. Jarmusch
+  - Kenneth L. Jones
+  - Zdenek Kamenik
+  - Audrey Le Gouellec
+  - Aileen Lu
+  - Laura-Isobel McCall
+  - Kerry L. McPhail
+  - Michael J. Meehan
+  - Alexey V. Melnik
+  - Riya C. Menezes
+  - Yessica Alejandra Montoya Giraldo
+  - Ngoc Hung Nguyen
+  - Louis Felix Nothias
+  - "M\xE9lissa Nothias-Esposito"
+  - Morgan Panitchpakdi
+  - Daniel Petras
+  - Robert A. Quinn
+  - Nicole Sikora
+  - Justin J. J. van der Hooft
+  - Fernando Vargas
+  - Alison Vrbanac
+  - Kelly C. Weldon
+  - Rob Knight
+  - Nuno Bandeira
+  - Pieter C. Dorrestein
+  publisher: Nature Methods
+  date: '2020-08-17'
+  link: https://doi.org/gg9prv
+  image: images/network2.jpg
+  tags:
+  - public mass spectrometry-based metabolomics data
+  - metadata capture
+  - ecosystem-community interactions
