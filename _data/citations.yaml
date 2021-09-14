@@ -186,3 +186,30 @@
   - Entomophthoromycotina
   - Zoopagomycota Zoopagomycotina
   - Zygomycota
+- id: 10.1371/journal.pgen.1003496
+  title: 'The Genome of Tolypocladium inflatum: Evolution, Organization, and Expression
+    of the Cyclosporin Biosynthetic Gene Cluster'
+  authors:
+  - Kathryn E. Bushley
+  - Rajani Raja
+  - Pankaj Jaiswal
+  - Jason S. Cumbie
+  - Mariko Nonogaki
+  - Alexander E. Boyd
+  - C. Alisha Owensby
+  - Brian J. Knaus
+  - Justin Elser
+  - Daniel Miller
+  - Yanming Di
+  - Kerry L. McPhail
+  - Joseph W. Spatafora
+  publisher: PLoS Genetics
+  date: '2013-06-20'
+  link: https://doi.org/f48m5h
+  image: images/Tolypocladium.jpg
+  tags:
+  - systematics
+  - Hypocreales
+  - NRPS
+  - cyclosporin biosynthesis
+  - insect pathogen
