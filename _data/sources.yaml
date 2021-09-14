@@ -68,4 +68,11 @@
     - NRPS
     - cyclosporin biosynthesis
     - insect pathogen
+    
+- id: 10.1038/s41596-020-0317-5
+  image: "images/molecular_network.jpg"
+  tags:
+    - molecular networking
+    - natural products 
+    - ecosystem-community interactions
 
