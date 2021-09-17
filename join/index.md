@@ -14,7 +14,7 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 
 MTSU - PhD position:
 <br>
-https://msastudents.org/students-and-post-doc/grad-school-opportunities/
+[Link text](https://msastudents.org/students-and-post-doc/grad-school-opportunities/)
 
 OSU PhD position:
 <br>
