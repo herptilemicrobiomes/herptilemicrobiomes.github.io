@@ -13,18 +13,24 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 ## **PhD Research Assistantships**
 
 MTSU - PhD position:
+<br>
 https://msastudents.org/students-and-post-doc/grad-school-opportunities/
 
 OSU PhD position:
+<br>
 
 UC Riverside postdoctoral postion:
+<br>
 
 ## **Postdoctoral Research Fellowships**
 
 MTSU postdoctoral position:
+<br>
 https://careers.mtsu.edu/en-us/job/495502/biology-postdoctoral-research-assistant
 
 OSU postdoctoral position:
+<br>
 https://gradschool.oregonstate.edu/postdocs/open-positions/15691-fungal-evolutionary-genomics-and-horizontal-gene-transfer-between
 
 UC Riverside postdoctoral position:
+<br>
