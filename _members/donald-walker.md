@@ -8,7 +8,7 @@ aliases:
 links:
   home-page: https://walkerlabmtsu.weebly.com/
   email: Donald.Walker@mtsu.edu
-  github: 
+  github: dmwalker-dmw
 ---
 
 Donnie Walker is a faculty member at Middle Tennessee State University and Co-PI of the Project
