@@ -12,11 +12,11 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 
 ## **PhD Research Assistantships**
 
-[MTSU - PhD position](https://msastudents.org/students-and-post-doc/grad-school-opportunities/)
+[MTSU - PhD position](https://msastudents.org/2021/09/16/phd-position-at-middle-tennesee-state-university-walker-lab-deadline-december-18-2021/)
 <br>
 OSU PhD position:
 <br>
-UC Riverside postdoctoral postion:
+UC Riverside PhD postion: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or (Plant Pathology)[https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program] or (Genetics, Genomics, Bioinformatics)[https://ggb.ucr.edu/]. Contact [Jason](/members/jason-stajich) if you are interested.
 <br>
 
 ## **Postdoctoral Research Fellowships**
@@ -25,5 +25,5 @@ UC Riverside postdoctoral postion:
 <br>
 [OSU postdoctoral position](https://gradschool.oregonstate.edu/postdocs/open-positions/15691-fungal-evolutionary-genomics-and-horizontal-gene-transfer-between)
 <br>
-UC Riverside postdoctoral position:
+UC Riverside postdoctoral position - to be posted.
 <br>
