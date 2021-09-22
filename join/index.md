@@ -16,7 +16,7 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 <br>
 OSU PhD position:
 <br>
-UC Riverside PhD postion: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or (Plant Pathology)[https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program] or (Genetics, Genomics, Bioinformatics)[https://ggb.ucr.edu/]. Contact [Jason](/members/jason-stajich) if you are interested.
+UC Riverside PhD postion: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or [Plant Pathology]([https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program) or [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu/). Contact [Jason](/members/jason-stajich) if you are interested.
 <br>
 
 ## **Postdoctoral Research Fellowships**
