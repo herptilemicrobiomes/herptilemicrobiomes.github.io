@@ -12,13 +12,13 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 
 ## PhD Research Assistantships
 
-* __Middle Tennesee State University__ [PhD position](https://msastudents.org/2021/09/16/phd-position-at-middle-tennesee-state-university-walker-lab-deadline-december-18-2021/)
-* __Oregon State University__ PhD position:
-* __UC Riverside__ PhD postion: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or [Plant Pathology]([https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program) or [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu/). Contact [Jason](/members/jason-stajich) if you are interested.
+* __Middle Tennesee State University__: [Position ad](https://msastudents.org/2021/09/16/phd-position-at-middle-tennesee-state-university-walker-lab-deadline-december-18-2021/)
+* __Oregon State University__: To be posted
+* __UC Riverside__: PhD position: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or [Plant Pathology]([https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program) or [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu/). Contact [Jason](/members/jason-stajich) if you are interested.
 
 ## Postdoctoral Research Fellowships
 
-* __MTSU__ [Postdoctoral position](https://careers.mtsu.edu/en-us/job/495502/biology-postdoctoral-research-assistant)
+* __MTSU__: [Position ad](https://careers.mtsu.edu/en-us/job/495502/biology-postdoctoral-research-assistant)
 <br>
-* __OSU__ [Postdoctoral position](https://gradschool.oregonstate.edu/postdocs/open-positions/15691-fungal-evolutionary-genomics-and-horizontal-gene-transfer-between)
-* __UC Riverside__ postdoctoral position - to be posted.
+* __OSU__: [Position ad](https://gradschool.oregonstate.edu/postdocs/open-positions/15691-fungal-evolutionary-genomics-and-horizontal-gene-transfer-between)
+* __UC Riverside__: To be posted.
