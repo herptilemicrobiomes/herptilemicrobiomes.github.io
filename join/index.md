@@ -1,4 +1,11 @@
-# **Join the Team**
+---
+title: Join
+nav:
+  order: 6
+  tooltip: Join Us
+---
+
+# Join the Team
 
 {:.center}
 
