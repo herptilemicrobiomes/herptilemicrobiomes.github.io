@@ -20,7 +20,7 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 ## PhD Research Assistantships
 
 * __Middle Tennesee State University__: [Position ad](https://msastudents.org/2021/09/16/phd-position-at-middle-tennesee-state-university-walker-lab-deadline-december-18-2021/) or [Molecular Biosciences PhD Program](https://www.mtsu.edu/programs/molecular-biosciences-phd/) 
-* __Oregon State University__: To be posted
+* __Oregon State University__: [Pharmacy](https://pharmacy.oregonstate.edu/pharmsciphd?)
 * __UC Riverside__: PhD position: applications to UCR [Microbiology](https://microbiology.ucr.edu/) or [Plant Pathology]([https://microplantpath.ucr.edu/department-programs/plant-pathology-graduate-program) or [Genetics, Genomics, Bioinformatics](https://ggb.ucr.edu/). Contact [Jason](/members/jason-stajich) if you are interested.
 
 ## Postdoctoral Research Fellowships
