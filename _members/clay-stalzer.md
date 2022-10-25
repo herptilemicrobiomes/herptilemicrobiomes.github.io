@@ -1,6 +1,6 @@
 ---
 name: Clay Stalzer
-image: 
+image: images/clay-stalzer.jpg
 description: Undergraduate student
 role: undergrad
 aliases:

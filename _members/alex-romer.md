@@ -1,6 +1,6 @@
 ---
 name: Alex Romer
-image: 
+image: images/alex-romer.jpg
 description: Lab Manager
 role: staff
 aliases:
