@@ -1,9 +1,10 @@
 ---
-title: Leila Shadmani
+name: Leila Shadmani
 search:
   - L. Shadmani
   - L Shadmani
 image: images/leila-shadmani.jpg
+description: Graduate Student, UCR
 role: phd
 group: current
 ---
