@@ -23,13 +23,25 @@ The Herptile Microbiome Research Team - We are an interdisciplinary research tea
   include list.html
   data="members"
   component="portrait"
+  filters="role: postdoc"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
   filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: undergrad"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: staff"
 %}
 {:.center}
 
