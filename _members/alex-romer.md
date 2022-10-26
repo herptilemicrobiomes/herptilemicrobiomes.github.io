@@ -1,7 +1,7 @@
 ---
 name: Alex Romer
 image: images/alex-romer.jpg
-description: Lab Manager
+description: Lab Manager, MTSU
 role: staff
 aliases:
   - A. Romer

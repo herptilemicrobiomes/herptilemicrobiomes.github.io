@@ -1,7 +1,7 @@
 ---
 name: Clay Stalzer
 image: images/clay-stalzer.jpg
-description: Undergraduate student
+description: Undergraduate student, MTSU
 role: undergrad
 aliases:
   - C. Stalzer
