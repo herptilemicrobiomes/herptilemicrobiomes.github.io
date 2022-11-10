@@ -25,7 +25,7 @@ Please browse the links below for available positions at MTSU, OSU, and UC River
 
 ## Postdoctoral Research Fellowships
 
-* __MTSU__: [Position ad](https://careers.mtsu.edu/en-us/job/495502/biology-postdoctoral-research-assistant)
+* __MTSU__: [Position ad](https://careers.mtsu.edu/en-us/job/497174/microbiome-ecology-laboratory-postdoctoral-research-assistant)
 <br>
 * __OSU__: [Position ad](https://gradschool.oregonstate.edu/postdocs/open-positions/15691-fungal-evolutionary-genomics-and-horizontal-gene-transfer-between)
 * __UC Riverside__: To be posted.
