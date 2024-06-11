@@ -1,5 +1,43 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1007/s00248-022-02127-0
+  title: Bacterial Skin Assemblages of Sympatric Salamanders Are Primarily Shaped
+    by Host Genus
+  authors:
+  - Aubree J. Hill
+  - Matthew Grisnik
+  - Donald M. Walker
+  publisher: Microbial Ecology
+  date: '2022-11-01'
+  link: https://doi.org/gtx93s
+  tags:
+  - microbiome
+  - salamander
+- id: pmid:38349154
+  title: 'Herptile gut microbiomes: a natural system to study multi-kingdom interactions
+    between filamentous fungi and bacteria.'
+  authors:
+  - "Lluvia Vargas-Gast\xE9lum"
+  - Alexander S Romer
+  - Marjan Ghotbi
+  - Jason W Dallas
+  - N Reed Alexander
+  - Kylie C Moe
+  - Kerry L McPhail
+  - George F Neuhaus
+  - Leila Shadmani
+  - Joseph W Spatafora
+  - Jason E Stajich
+  - Javier F Tabima
+  - Donald M Walker
+  publisher: mSphere
+  date: '2024-02-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38349154
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10964425/bin/msphere.00475-23.f001.jpg
+  tags:
+  - basidiobolus
+  - fungi
+  - microbiome
 - id: 10.1007/s00248-019-01456-x
   title: Variation in the Slimy Salamander (Plethodon spp.) Skin and Gut-Microbial
     Assemblages Is Explained by Geographic Distance and Host Affinity

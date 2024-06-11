@@ -1,4 +1,13 @@
- 
+- id: 10.1007/s00248-022-02127-0
+  tags: 
+    - microbiome
+    - salamander
+- id: pmid:38349154
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10964425/bin/msphere.00475-23.f001.jpg
+  tags:
+    - basidiobolus
+    - fungi
+    - microbiome
 - id: 10.1007/s00248-019-01456-x
   image: "images/heatmap.jpg"
   tags:
