@@ -4,7 +4,14 @@ _site
 .jekyll-metadata
 vendor
 debug.log
-__pycache__/
-.DS_Store
+__pycache__
+.cache
+!cache.db
+.DS_STORE
+.env*
+package.json
+package-lock.json
+yarn.lock
+node_modules
 *~
 .*#

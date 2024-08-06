@@ -41,6 +41,8 @@ We are studying the Bacteria and Fungi which comprise Amphibian and Reptile dige
   image="images/co-culture_plate.jpg"
   link="resources"
   headline="Our Resources"
+  flip=true
+  style="bare"
   text=text
 %}
 
@@ -48,8 +50,25 @@ We are studying the Bacteria and Fungi which comprise Amphibian and Reptile dige
 
 Datasets and Resources we have collected, strains and cultured organisms, Genomes, Metabolomes, and Microbiome datasets.
 
-[Meet our team &nbsp;→](team)
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 {:.center}
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
 {% endcapture %}
 
 {%
