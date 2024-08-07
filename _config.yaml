@@ -15,17 +15,9 @@ links:
   instagram: herpmicrobiomes
 #  youtube: YourLabChannel
 
-# automatic citations
-auto-cite:
-  plugins:
-    - name: sources
-      input:
-        - ../_data/sources.yaml
-  output: ../_data/citations.yaml
+### jekyll settings
 
-### advanced settings
-
-# default front matter parameters for markdown files
+# front matter defaults
 defaults:
   # all markdown files
   - scope:
@@ -43,29 +35,45 @@ defaults:
     values:
       layout: post
 
-# collections
 collections:
+  # generate page for each member
   members:
+    output: true
+  # generate page for each post
+  posts:
     output: true
 
 # sass settings
 sass:
-  sass_dir: css
+  sass_dir: _styles
 
 # syntax highlighting
 highlighter: rouge
 
 # plugins
 plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  - jekyll-sitemap
-  # - jekyll-github-metadata
-  # - jekyll-avatar
-  # - jekyll-gist
-  # - jekyll-mentions
-  # - jekyll-relative-links
-  # - jemoji
+  - jekyll-last-modified-at
+  - jekyll-github-metadata
+  - jekyll-avatar
+  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-relative-links
+  - jemoji
 
 # jekyll theme
 theme: null
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
